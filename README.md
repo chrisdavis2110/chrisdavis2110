@@ -52,13 +52,6 @@
 
 ---
 
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="chrisdavis2110's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chrisdavis2110&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://diywarlord.com
 [blog]: http://diywarlord.com/blog
 [youtube]: https://www.youtube.com/channel/UC2nJnDhmzraS3EL3jg07Fzg
