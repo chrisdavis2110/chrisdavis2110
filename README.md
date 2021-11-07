@@ -1,11 +1,11 @@
-### Hi there, I'm Chris - aka [DIY Warlord][website] 👋
+### Hi there, I'm Chris - aka [DIY Warlord][website]
 
 [![Website](https://img.shields.io/website?label=diywarlord.com&style=for-the-badge&url=https%3A%2F%2Fdiywarlord.com)](https://diywarlord.com)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2nJnDhmzraS3EL3jg07Fzg?label=DIYWarlord%20on%20youtube&style=for-the-badge)](https://www.youtube.com/channel/UC2nJnDhmzraS3EL3jg07Fzg)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2nJnDhmzraS3EL3jg07Fzg?label=DIYWarlord%20on%20youtube&style=for-the-badge)](https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w)
 
 ## I'm a Husband, Father, and DIYer!
 
-- I’m currently learning everything 🤣
+- I’m currently learning everything
 - I’m looking to collaborate with other content creators
 - Fun fact: I love to play guitar
 
@@ -39,7 +39,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UC2nJnDhmzraS3EL3jg07Fzg)
+➡️ [more videos...](https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w)
 
 ---
 
@@ -54,5 +54,5 @@
 
 [website]: https://diywarlord.com
 [blog]: http://diywarlord.com/blog
-[youtube]: https://www.youtube.com/channel/UC2nJnDhmzraS3EL3jg07Fzg
+[youtube]: https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w
 [instagram]: https://instagram.com/diywarlod
