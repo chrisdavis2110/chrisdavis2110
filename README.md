@@ -41,4 +41,4 @@
 [website]: https://www.diywarlord.com
 [blog]: http://www.diywarlord.com/blog
 [youtube]: https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w
-[instagram]: https://www.instagram.com/diywarlod
+[instagram]: https://www.instagram.com/diywarlord
