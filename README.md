@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris - aka [DIY Warlord][website]
 
-[![Website](https://img.shields.io/website?label=diywarlord.com&style=for-the-badge&url=https%3A%2F%2Fdiywarlord.com)](https://www.diywarlord.com)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7-VZGvTawdqwYvnk-INS2w?label=DIYWarlord%20on%20youtube&style=for-the-badge)](https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=diywarlord.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.diywarlord.com)](https://www.diywarlord.com)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7-VZGvTawdqwYvnk-INS2w?label=diywarlord%20on%20youtube&style=for-the-badge)](https://www.youtube.com/channel/UC7-VZGvTawdqwYvnk-INS2w)
 
 ## I'm a Husband, Father, and DIYer!
 
