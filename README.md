@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://diywarlord.com/blog)
+➡️ [more blog posts...](https://www.diywarlord.com/blog)
 
 ---
 
